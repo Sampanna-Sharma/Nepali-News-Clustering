@@ -1,0 +1,2 @@
+# Nepali-word-embedding
+//
